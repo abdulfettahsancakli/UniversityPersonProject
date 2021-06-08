@@ -2,20 +2,20 @@
 Object Oriented Programming Project
 PROJECT CONTENT
 
-//UNIVERSITY PERSON
+UNIVERSITY PERSON
 I set the University person class as the abstract class and passed its properties to the subclasses.
 
-//FACULTY STAFF 
+FACULTY STAFF 
 I created a faculty/staff class with its own features.
 I transferred the properties of the UniversityPerson class to use in this class.
 I created the reading and writing functions for this class.
 
-// GRADUATE UNDERGRADUATE
+ GRADUATE UNDERGRADUATE
 I created a graduate/undergradute class with its own features.
 I transferred the properties of the Student class to use in this class.
 I created the reading and writing functions for this class.
 
-// MAIN
+ MAIN
 Our master class is actually divided into 4 parts.
 First, new users must register in the system.
 After registration, they can login into the system from the login function.
